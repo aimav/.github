@@ -1,7 +1,7 @@
 Aimav Project
 =============
 
-AI, MetaOS, Apps, vibed and combined into one.
+AI, MetaOS, Apps, Vibed and combined into one.
 
 
 How Things are Made
