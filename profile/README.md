@@ -13,6 +13,7 @@ AI
 
 MetaOS
   - For the web version, the browser itself is the OS
+  - Aimav manages data of apps into a single access point
 
 Apps
   - A selection of open-source apps are integrated in
