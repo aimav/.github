@@ -22,5 +22,5 @@ Vibing
   - AI era is here, vibing is for productivity
 
 The one
-  - Everything needed by users would be added
+  - Everything needed by users would be added in one launcher
   - Cross-platform
