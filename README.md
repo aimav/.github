@@ -1,5 +1,5 @@
-Aimav
-=====
+Aimav Project
+=============
 
 AI, MetaOS, Apps, vibed and combined into one.
 
