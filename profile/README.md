@@ -21,6 +21,8 @@ Apps
 
 Vibing
   - AI era is here, vibing is for productivity
+  - Cline: Free models with limited comprehension
+  - Antigravity: We need sponsors!
 
 The one
   - Everything needed by users would be added in one launcher
