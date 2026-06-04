@@ -1,7 +1,7 @@
 Aimav Project
 =============
 
-AI, MetaOS, Apps, Vibed and combined into one.<br>
+AI, MetaOS, Apps, Vested with open-source software and libs.<br>
 Web version: https://aimav.github.io
 
 
@@ -19,7 +19,8 @@ Apps
   - A selection of open-source apps are integrated in
   - Especially those are client-only apps
 
-Vibing
+Vesting
+  - All open-source software & libs
   - AI era is here, vibing is for productivity
   - Cline: Free models with limited comprehension
   - Antigravity: We need sponsors!
