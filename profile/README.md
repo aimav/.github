@@ -1,8 +1,17 @@
 Aimav Project
 =============
 
-AI, MetaOS, Apps, Vested with open-source software and libs.<br>
+AI, MetaOS (WebOS), Apps, Vested with open-source software and libs.<br>
 Web version: https://aimav.github.io
+
+
+Goals of Project
+================
+
+These are the main points to achieve
+  - **Apps** for user's data
+  - **App integrations** for user's data
+  - **Local AI** for unlimited processing on user's data
 
 
 How Things are Made
