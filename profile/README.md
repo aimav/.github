@@ -12,6 +12,8 @@ These are the main points to achieve
   - **Apps** for user's data
   - **App integrations** for user's data
   - **Local AI** for unlimited processing on user's data
+      - Prompt engineering
+      - Algos to utilize small models (text, vision, etc)
 
 
 How Things are Made
